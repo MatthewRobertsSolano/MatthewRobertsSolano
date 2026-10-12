@@ -1,11 +1,15 @@
 # Hi there, I'm Matthew Roberts 👋
 
+### 📊 Profile Views:
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMatthewRobertsSolano&count_bg=%2031A8FF&title_bg=%20555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
+
+---
 
 ### 📬 How to reach me: *(Click a badge to view)*
 
 <a href="mailto:mrobertssolano@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/ranaflautas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.artstation.com/MatthewRobertsSolano"><img src="https://img.shields.io/badge/ArtStation-130647?style=for-the-badge&logo=artstation&logoColor=white" /></a>
+<a href="https://www.artstation.com/matthewrobertssolano"><img src="https://img.shields.io/badge/ArtStation-130647?style=for-the-badge&logo=artstation&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/matthew-roberts-solano-818769349"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
