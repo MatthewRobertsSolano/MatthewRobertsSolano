@@ -11,11 +11,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=3D+Animation+Student;Blender+%26+Krita+Artist;Creative+Asset+Pipeline+Manager" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMatthewRobertsSolano&count_bg=%2031A8FF&title_bg=%20555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
-</p>
-
 ---
 
 ### 🎨 3D & Art Showcase
