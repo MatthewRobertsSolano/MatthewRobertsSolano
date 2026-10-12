@@ -1,9 +1,7 @@
-## Hi there, i´m Matthew Roberts 👋
-
-# Hi there! 👋
+# Hi there, I'm Matthew Roberts 👋
 
 ### 📊 Profile Views:
-<img src="https://profile-counter.glitch.me/MatthewRobertsSolano/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=MatthewRobertsSolano&color=blue&style=flat-square" alt="Profile Views" />
 
 ---
 
@@ -12,7 +10,7 @@
 <a href="mailto:mrobertssolano@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/ranaflautas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.artstation.com/MatthewRobertsSolano"><img src="https://img.shields.io/badge/ArtStation-13 narrow?style=for-the-badge&logo=artstation&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/matthew-roberts-solano-818769349><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/matthew-roberts-solano-818769349"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
 
@@ -22,7 +20,7 @@
 - 🌱 I’m currently improving my skills in **Animation & Asset Creation**
 - 🔍 I’m looking to collaborate on **Indie Game Projects, Larger Scale Projects & Animated Shorts**
 - 💬 Ask me about **Blender, Concept Art in Krita, and Pipeline Workflows with Git**
-- ⚡ Fun fact: **We definately have a favourite game in common...**
+- ⚡ Fun fact: **We definitely have a favourite game in common...**
 
 ---
 
