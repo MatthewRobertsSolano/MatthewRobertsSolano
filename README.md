@@ -1,7 +1,7 @@
 # Hi there, I'm Matthew Roberts 👋
 
 ### 📊 Profile Views:
-<img src="https://komarev.com/ghpvc/?username=MatthewRobertsSolano&color=blue&style=flat-square" alt="Profile Views" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMatthewRobertsSolano&count_bg=%2031A8FF&title_bg=%20555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
 
 ---
 
