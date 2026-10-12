@@ -1,5 +1,19 @@
 ## Hi there, i´m Matthew Roberts 👋
 
+<!-- HEADER BANNER START -->
+<div align="center">
+
+  <!-- Main Animated Capsule Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10&height=220&section=header&text=Matthew%20Roberts&fontSize=65&fontAlignY=38&animation=twinkle&fontColor=ffffff" width="100%" />
+
+  <!-- Dynamic Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=31A8FF&center=true&vCenter=true&width=600&height=50&lines=3D+Artist+%26+Character+Designer;Animator+%26+Asset+Creator;Blender+%2B+Krita+%2B+Git+Workflows;Open+for+Indie+Games+%26+Animated+Shorts" alt="Typing SVG" />
+  </a>
+
+</div>
+<!-- HEADER BANNER END -->
+
 ### 📬 How to reach me: *(Click a badge to view)*
 
 <a href="mailto:mrobertssolano@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
