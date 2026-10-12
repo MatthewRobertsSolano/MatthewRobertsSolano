@@ -1,7 +1,11 @@
 ## Hi there, I'm Matthew Roberts 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7931E&center=true&vcenter=true&width=600&height=70&lines=3D+Animator+%26+Character+Designer;Blender+%26+Asset+Creation+Specialist;Open+for+Indie+Games+%26+Animated+Shorts;Git+%26+Pipeline+Workflow+Enthusiast" alt="Typing SVG Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Matthew%20Roberts&fontSize=42&fontColor=ffffff&animation=fadeIn&stroke=0" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7931E&center=true&vcenter=true&width=600&height=50&lines=3D+Animator+%26+Character+Designer;Blender+%26+Asset+Creation+Specialist;Open+for+Indie+Games+%26+Animated+Shorts;Git+%26+Pipeline+Workflow+Enthusiast" alt="Typing SVG Banner" />
 </p>
 
 ---
