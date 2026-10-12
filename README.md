@@ -19,7 +19,6 @@
 ---
 
 ### 🎨 3D & Art Showcase
-*(Replace these links with your own 3D renders or turntable GIFs when ready!)*
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1aGNxeGQ1dzRxaWdqaHNqNjNqZHVlY3lhdThsMnVndWVxeDZ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="45%" alt="3D Render Showcase 1" />
