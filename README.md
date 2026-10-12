@@ -1,7 +1,8 @@
-## Hi there, i´m Matthew Roberts 👋
+# Hi there, I'm Matthew Roberts 👋
 
-### 📊 Profile Views:
-<img src="https://profile-counter.glitch.me/MatthewRobertsSolano/count.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Matthew%20Roberts&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=3D%20Artist%20%7C%20Character%20Designer%20%7C%20Animator&descSize=20&descAlignY=62" width="100%" />
+</p>
 
 ---
 
