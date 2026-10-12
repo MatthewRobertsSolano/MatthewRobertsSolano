@@ -1,7 +1,9 @@
-# Hi there, I'm Matthew Roberts 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,23,30,42&height=220&section=header&text=Matthew%20Roberts&fontSize=48&animation=fadeIn&fontColor=00ffcc&fontAlignY=35" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Matthew%20Roberts&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=3D%20Artist%20%7C%20Character%20Designer%20%7C%20Animator&descSize=20&descAlignY=62" width="100%" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=3D+Modeler+%26+Character+Designer;Animator+%7C+Indie+Game+Enthusiast;Working+on+3D+Modeling+%26+Animation;Let's+build+something+epic+together!" alt="Typing SVG" font-size="22" color="#00FFCC" background="transparent" center="true" width="600" height="35" /></a>
 </p>
 
 ---
