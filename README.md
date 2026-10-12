@@ -1,4 +1,4 @@
-# Hi there, I'm Matthew Roberts 👋
+# Hi there, 👋
 
 <!-- HEADER BANNER ANIMADO -->
 <p align="center">
