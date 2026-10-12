@@ -1,4 +1,4 @@
-## Hi there, I'm Matthew Roberts 👋
+## Hey there, Welcome To My Profile! 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Matthew%20Roberts&fontSize=42&fontColor=ffffff&animation=fadeIn&stroke=0" />
@@ -22,8 +22,8 @@
 ### 🎬 About Me
 
 - 🔭 I’m currently working on **3D Modeling, Character Design & Animation**
-- 🌱 I’m currently improving my skills in **Animation & Asset Creation**
-- 🔍 I’m looking to collaborate on **Indie Game Projects, Larger Scale Projects & Animated Shorts**
+- 🌱 Currently improving my skills in **Animation & Asset Creation**
+- 🔍 looking to collaborate on **Game Projects, Larger Scale Projects & Animated Shorts and Movies**
 - 💬 Ask me about **Blender, Concept Art in Krita, and Pipeline Workflows with Git**
 - ⚡ Fun fact: **We definitely have a favourite game in common...**
 
