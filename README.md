@@ -14,13 +14,16 @@
 </div>
 <!-- HEADER BANNER END -->
 
+<div align="center">
+
 ### 📬 How to reach me: *(Click a badge to view)*
 
 <a href="mailto:mrobertssolano@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/ranaflautas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.artstation.com/MatthewRobertsSolano"><img src="https://img.shields.io/badge/ArtStation-136B9F?style=for-the-badge&logo=artstation&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/matthew-roberts-solano-818769349"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.artstation.com/MatthewRobertsSolano"><img src="https://img.shields.io/badge/ArtStation-00ADEE?style=for-the-badge&logo=artstation&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/matthew-roberts-solano-818769349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+</div>
 ---
 
 ### 🎬 About Me
