@@ -1,5 +1,31 @@
 # Hi there, I'm Matthew Roberts 👋
 
+<!-- HEADER BANNER ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,11,15&height=200&section=header&text=Matthew%20Roberts%20👋&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
+</p>
+
+<!-- EFECTO TYPING -->
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=3D+Animation+Student;Blender+%26+Krita+Artist;Creative+Asset+Pipeline+Manager">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=3D+Animation+Student;Blender+%26+Krita+Artist;Creative+Asset+Pipeline+Manager" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMatthewRobertsSolano&count_bg=%2031A8FF&title_bg=%20555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
+</p>
+
+---
+
+### 🎨 3D & Art Showcase
+*(Replace these links with your own 3D renders or turntable GIFs when ready!)*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1aGNxeGQ1dzRxaWdqaHNqNjNqZHVlY3lhdThsMnVndWVxeDZ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="45%" alt="3D Render Showcase 1" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZqOWpsOGc5dWZva3I1NWdheG4wdXF4YWd5MWxsMHM4eGptNHp6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlOBZyy8jTNVTOU/giphy.gif" width="45%" alt="3D Animation Showcase 2" />
+</p>
 ### 📊 Profile Views:
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMatthewRobertsSolano&count_bg=%2031A8FF&title_bg=%20555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
 
