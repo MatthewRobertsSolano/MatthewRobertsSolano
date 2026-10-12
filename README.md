@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,23,30,42&height=220&section=header&text=Matthew%20Roberts&fontSize=48&animation=fadeIn&fontColor=00ffcc&fontAlignY=35" width="100%" />
-</p>
+## Hi there, i´m Matthew Roberts 👋
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=3D+Modeler+%26+Character+Designer;Animator+%7C+Indie+Game+Enthusiast;Working+on+3D+Modeling+%26+Animation;Let's+build+something+epic+together!" alt="Typing SVG" font-size="22" color="#00FFCC" background="transparent" center="true" width="600" height="35" /></a>
-</p>
+### 📊 Profile Views:
+<img src="https://profile-counter.glitch.me/MatthewRobertsSolano/count.svg" />
 
 ---
 
