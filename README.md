@@ -24,6 +24,7 @@
 <a href="https://www.linkedin.com/in/matthew-roberts-solano-818769349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
+
 ---
 
 ### 🎬 About Me
@@ -38,13 +39,17 @@
 
 ### 🛠️ Tools & Technologies
 
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/Krita-31A8FF?style=for-the-badge&logo=krita&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Krita-31A8FF?style=for-the-badge&logo=krita&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
 ---
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=MatthewRobertsSolano&show_icons=true&theme=dark" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatthewRobertsSolano&show_icons=true&theme=dark" />
+</div>
