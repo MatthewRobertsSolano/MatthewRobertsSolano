@@ -15,15 +15,6 @@
 
 ### 🎨 3D & Art Showcase
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1aGNxeGQ1dzRxaWdqaHNqNjNqZHVlY3lhdThsMnVndWVxeDZ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="45%" alt="3D Render Showcase 1" />
-  &nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZqOWpsOGc5dWZva3I1NWdheG4wdXF4YWd5MWxsMHM4eGptNHp6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlOBZyy8jTNVTOU/giphy.gif" width="45%" alt="3D Animation Showcase 2" />
-</p>
-### 📊 Profile Views:
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMatthewRobertsSolano&count_bg=%2031A8FF&title_bg=%20555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
-
----
 
 ### 📬 How to reach me: *(Click a badge to view)*
 
