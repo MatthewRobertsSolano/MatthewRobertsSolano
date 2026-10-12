@@ -1,42 +1,33 @@
-# Hi there, 👋
+## Hi there, i´m Matthew Roberts 👋
 
-<div align="center">
+### 📬 How to reach me: *(Click a badge to view)*
 
-  <!-- HEADER BANNER ANIMADO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,11,15&height=200&section=header&text=Matthew%20Roberts%20👋&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
-
-  <br />
-
-  <!-- EFECTO TYPING -->
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=3D+Animation+Student;Blender+%26+Krita+Artist;Creative+Asset+Pipeline+Manager">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=3D+Animation+Student;Blender+%26+Krita+Artist;Creative+Asset+Pipeline+Manager" alt="Typing SVG" />
-  </a>
-
-  <br /><br />
-
-  <!-- BADGES / CONTACT -->
-  <a href="mailto:mrobertssolano@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ranaflautas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.artstation.com/matthewrobertssolano"><img src="https://img.shields.io/badge/ArtStation-130647?style=for-the-badge&logo=artstation&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/matthew-roberts-solano-818769349"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-</div>
-
----
-
-### 🎨 3D & Art Showcase
-
-<!-- Add your portfolio embeds, GIFs, or image highlights here -->
+<a href="mailto:mrobertssolano@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/ranaflautas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.artstation.com/MatthewRobertsSolano"><img src="https://img.shields.io/badge/ArtStation-13 narrow?style=for-the-badge&logo=artstation&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/matthew-roberts-solano-818769349"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
 
 ### 🎬 About Me
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+- 🔭 I’m currently working on **3D Modeling, Character Design & Animation**
+- 🌱 I’m currently improving my skills in **Animation & Asset Creation**
+- 🔍 I’m looking to collaborate on **Indie Game Projects, Larger Scale Projects & Animated Shorts**
+- 💬 Ask me about **Blender, Concept Art in Krita, and Pipeline Workflows with Git**
+- ⚡ Fun fact: **We definitely have a favourite game in common...**
 
-```text
-🔭 Working on  : 3D Modeling, Character Design & Animation
-🌱 Improving   : Animation & Asset Creation Workflows
-🔍 Looking for : Collaborations on Indie Games & Animated Shorts
+---
+
+### 🛠️ Tools & Technologies
+
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Krita-31A8FF?style=for-the-badge&logo=krita&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+---
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=MatthewRobertsSolano&show_icons=true&theme=dark" />
